@@ -3,9 +3,6 @@
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/kutluay-a-a9b163211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=6VE6ABOND6" alt="trophy" />
 
 ## GitHub Activity Graph
 
